@@ -1,2 +1,4 @@
+![](Warehouse-SFS.jpeg)
+
 # Warehouse-SFS
- A colleftion of blueprints for Spaceflight Simulator
+ Warehouse SFS is a collection of useful blueprints for Spaceflight Simulator.
